@@ -196,14 +196,10 @@ const Index = () => {
         </TabsContent>
       </Tabs>
 
-      {/* Info Section for Sadman Saqib and PM Accelerator (moved to end) */}
+      {/* Info Section for Sadman Saqib */}
       <section className="mt-12 mb-8 max-w-2xl mx-auto bg-blue-50 border border-blue-200 rounded-lg p-6 shadow-sm">
         <h2 className="text-2xl font-semibold mb-2">About the Creator</h2>
-        <p className="mb-4">Hi, I am <span className="font-bold">Sadman Saqib</span>, and I aspire to be an AI engineer.</p>
-        <h3 className="text-xl font-semibold mb-1">About PM Accelerator</h3>
-        <p className="mb-2">
-          <a href="https://www.linkedin.com/school/pmaccelerator/" target="_blank" rel="noopener noreferrer" className="text-blue-700 underline font-medium">PM Accelerator</a> is a US based company with a global reach premiering in AI learning and as a development hub, featuring award-winning AI products and mentors from top-tier companies such as Google, Meta, Apple, and Nvidia. We offer a dynamic AI PM Bootcamp, designed to empower the next generation of AI professionals through hands-on experience, mentorship, and real-world projects.
-        </p>
+        <p className="mb-4">Hi, I am <span className="font-bold">Sadman Saqib</span>, a Computer Science student at Brac University. I have a strong passion for web development and artificial intelligence, and I aspire to become an AI engineer. This weather app is one of my projects where I combine my interests in both web technologies and AI to create useful applications.</p>
       </section>
 
       <footer className="mt-12 text-center text-sm text-muted-foreground">
@@ -226,3 +222,4 @@ const Index = () => {
 };
 
 export default Index;
+  
